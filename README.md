@@ -35,3 +35,5 @@ Instructions and a description of the game can be found here:
 8. Game page displays the top ten points with the user name and game played date.
 9. User details can be updated using **Update** option in *profile page*.
 10. User can delete their account using **Delete** option in  *profile page*.
+
+https://playtest-set-game.herokuapp.com/
